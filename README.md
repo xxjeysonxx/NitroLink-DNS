@@ -248,3 +248,4 @@ Fork y mejoras:
 
 Este proyecto mantiene la licencia original del RiiConnect24 DNS Server.
 Conserva los avisos de copyright al redistribuir.
+Desarrollado con la asistencia de Claude Sonnet 5
